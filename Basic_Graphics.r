@@ -6,11 +6,6 @@ library(gridExtra)
 disney <- c(11, 13, 11, 8, 12, 11, 12, 8, 10) # nolint
 year <- c('2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018') # nolint
 
-# Crear gráfico por variables
-# - Posición en x
-# - Posición en y
-# - Título del gráfico
-# - Ver grillas
 myplot <- plot( # nolint
     x = year, # nolint
     y = disney, # nolint

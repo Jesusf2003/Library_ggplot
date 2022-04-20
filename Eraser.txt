@@ -1,0 +1,14 @@
+# cities_raw <- "data/cities.csv" # nolint
+
+oscar_female <- "data/oscar_age_female.csv"
+
+# cities_df <- read.csv(file = cities_raw) # nolint
+
+# ggplot(
+#     data = cities_df,
+#     aes(
+#         x = City,
+#         y = State,
+#         colour = "smooth" # nolint
+#     )
+# ) + geom_point()
